@@ -17,7 +17,7 @@ I am a Full Stack Developer with experience building **single-page applications 
 - 📱 Phone: 052-839-5423  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
 
-![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-DariaRosen&show_icons=true&theme=radical)
 
 ---
 
