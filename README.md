@@ -1,8 +1,7 @@
 # Hi, I'm Daria 👋
 
----
 
-# Full Stack Web Developer | Software Engineer
+## Full Stack Web Developer | Software Engineer
 MSc in Robotics & Autonomous Systems (with distinction) | Passionate about building scalable web applications and intelligent systems
 
 ![Banner](https://via.placeholder.com/1000x200?text=Welcome+to+Daria's+GitHub)
