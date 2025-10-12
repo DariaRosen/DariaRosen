@@ -10,10 +10,18 @@ Passionate about building scalable web applications and intelligent systems
 
 </div>
 
-### How to reach me:
+### 📫 How to reach me:
 📍 Kadima-Zoran, Israel  
 📧 [daria.sk135@gmail.com](mailto:daria.sk135@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+
+---
+
+## 🔭 I’m currently working on
+
+[![Airdnd Demo](https://raw.githubusercontent.com/DariaRosen/DariaRosen/main/airdnd-preview.png)](https://airdnd-ex0p.onrender.com/Airdnd/#/)
+> 🏡 **Airdnd – Full Stack Airbnb Clone**  
+> React • Node.js • Express • MongoDB
 
 ---
 
