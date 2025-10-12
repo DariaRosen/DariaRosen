@@ -9,9 +9,9 @@ Passionate about building scalable web applications and intelligent systems
 <img src="https://raw.githubusercontent.com/DariaRosen/DariaRosen/5a182f6d3c67d6a5de67fca95ea46e90f62d6819/ChatGPT%20Image%20Oct%2011%2C%202025%2C%2006_18_38%20PM.png" alt="Daria Rosen — Full Stack Developer | Software Engineer" width="80%" />
 
 </div>
----
 
-### 📍 Kadima-Zoran, Israel  
+### How to reach me:
+📍 Kadima-Zoran, Israel  
 📧 [daria.sk135@gmail.com](mailto:daria.sk135@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
 
