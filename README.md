@@ -22,6 +22,7 @@ Passionate about building scalable web applications and intelligent systems
 [![Airdnd Demo](https://raw.githubusercontent.com/DariaRosen/DariaRosen/763a91f2a7c913dd5a59e4c4def38edff193a74e/Airdnd.PNG)](https://airdnd-ex0p.onrender.com/Airdnd/#/)
 > 🏡 **Airdnd – Full Stack Airbnb Clone**  
 > React • Node.js • Express • MongoDB
+> <br>
 👉 Check it out [right here](https://airdnd-ex0p.onrender.com/Airdnd/#/)
 
 ---
