@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 # 👋 Hi, I'm **Daria**
 
@@ -6,11 +6,9 @@
 *MSc in Robotics & Autonomous Systems (with Distinction)*  
 Passionate about building scalable web applications and intelligent systems  
 
-</div>
+<img src="https://raw.githubusercontent.com/DariaRosen/DariaRosen/5a182f6d3c67d6a5de67fca95ea46e90f62d6819/ChatGPT%20Image%20Oct%2011%2C%202025%2C%2006_18_38%20PM.png" alt="Daria Rosen — Full Stack Developer | Software Engineer" width="80%" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DariaRosen/DariaRosen/5a182f6d3c67d6a5de67fca95ea46e90f62d6819/ChatGPT%20Image%20Oct%2011%2C%202025%2C%2006_18_38%20PM.png" alt="Daria Rosen — Full Stack Developer | Software Engineer" />
-</p>
+</div>
 ---
 
 ### 📍 Kadima-Zoran, Israel  
