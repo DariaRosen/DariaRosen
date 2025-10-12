@@ -49,6 +49,12 @@ Passionate about building scalable web applications and intelligent systems
 
 ---
 
+## 🌱 I’m currently learning
+
+![Angular](https://skillicons.dev/icons?i=angular)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Claude_AI_logo.svg/512px-Claude_AI_logo.svg.png" width="48" alt="Claude" />
+  
+
 <details>
 <summary>💼 <b>Experience</b></summary>
 <br>
