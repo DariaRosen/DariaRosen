@@ -17,7 +17,7 @@ Passionate about building scalable web applications and intelligent systems
 
 ---
 
-## 🔭 I’m currently working on
+## 🔭 I'm currently working on
 
 [![Airdnd Demo](https://raw.githubusercontent.com/DariaRosen/DariaRosen/763a91f2a7c913dd5a59e4c4def38edff193a74e/Airdnd.PNG)](https://airdnd-ex0p.onrender.com/Airdnd/#/)
 > 🏡 **Airdnd – Full Stack Airbnb Clone**  
@@ -29,12 +29,7 @@ Passionate about building scalable web applications and intelligent systems
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=DariaRosen&show_icons=true&hide_border=true&theme=transparent&cache_seconds=86400&v=1"
-    alt="Daria's GitHub stats"
-  />
-</p>
+![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=DariaRosen&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000)
 
 ---
 
@@ -52,11 +47,10 @@ Passionate about building scalable web applications and intelligent systems
 ![python](https://skillicons.dev/icons?i=python)
 ![matlab](https://skillicons.dev/icons?i=matlab)
 ![csharp](https://skillicons.dev/icons?i=cs)
-</div>
 
 ---
 
-## 🌱 I’m currently learning
+## 🌱 I'm currently learning
 
 ![Angular](https://skillicons.dev/icons?i=angular)  
 
@@ -89,6 +83,7 @@ Laufer GHI • Ariel University • Bezeq International
 
 ---
 
-> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 </div>
+
