@@ -27,27 +27,6 @@ Passionate about building scalable web applications and intelligent systems
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Try this first - if it doesn't work, uncomment the alternative below -->
-<img src="https://github-readme-stats.vercel.app/api?username=DariaRosen&show_icons=true&theme=default&hide_border=true&bg_color=fff&title_color=000&text_color=000&icon_color=000" alt="Daria's GitHub stats" width="100%" />
-
-<!-- Alternative if above doesn't work - remove the comment tags -->
-<!--
-<a href="https://github.com/DariaRosen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DariaRosen&show_icons=true&theme=dark&hide_border=true" alt="Daria's GitHub stats" />
-</a>
-<a href="https://github.com/DariaRosen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DariaRosen&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</a>
--->
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ![React](https://skillicons.dev/icons?i=react)
