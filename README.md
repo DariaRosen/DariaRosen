@@ -27,7 +27,12 @@ Passionate about building scalable web applications and intelligent systems
 
 ---
 
-![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=DariaRosen&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DariaRosen&show_icons=true&hide_border=true&theme=transparent"
+    alt="Daria's GitHub stats"
+  />
+</p>
 
 ---
 
